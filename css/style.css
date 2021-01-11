@@ -11306,6 +11306,24 @@ fieldset:disabled .btn {
   background-color: floralwhite;
 }
 
+@media (max-width: 991.98px) {
+  .navbarcontainer {
+    width: 95vw;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbarcontainer {
+    width: 80vw;
+    max-width: 1750px;
+  }
+}
+
+li {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 body {
   background-color: #FFD84B;
 }

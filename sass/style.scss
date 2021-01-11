@@ -1,13 +1,39 @@
 @import '../node_modules/bootstrap/scss/bootstrap.scss'; 
 
+//variablen
 $navbar-color: floralwhite;
 $theme-bg: #FFD84B;
+$navlinkafstand: 10px;
 
 
 
 // navigatiebalk
 .navbar {
     background-color: $navbar-color;
+}
+
+//werkt wanneer scherm kleiner dan breakpoint lg (992px)
+@include media-breakpoint-down(lg) {
+    .navbarcontainer {
+        width: 95vw;
+    }
+}
+
+//werkt wanneer scherm gelijk of groter dan breakpoint lg (992px)
+@include media-breakpoint-up(lg) {
+    .navbarcontainer {
+        width: 80vw;
+        max-width: 1750px;
+    
+    }
+}
+
+
+
+
+li {
+    margin-left: $navlinkafstand;
+    margin-right: $navlinkafstand;
 }
 
 body {
