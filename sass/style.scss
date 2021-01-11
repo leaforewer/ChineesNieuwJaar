@@ -1,1 +1,17 @@
 @import '../node_modules/bootstrap/scss/bootstrap.scss'; 
+
+$navbar-color: floralwhite;
+$theme-bg: #FFD84B;
+
+
+
+// navigatiebalk
+.navbar {
+    background-color: $navbar-color;
+}
+
+body {
+    background-color: $theme-bg;
+}
+
+
