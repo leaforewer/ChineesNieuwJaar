@@ -1,15 +1,24 @@
 @import '../node_modules/bootstrap/scss/bootstrap.scss'; 
 
 //variablen
-$navbar-color: floralwhite;
+$navbar-color: rgba(255, 250, 240, 0.808);
 $theme-bg: #FFD84B;
 $navlinkafstand: 10px;
+$navbardikheid: 56px;
 
 
 
 // navigatiebalk
 .navbar {
     background-color: $navbar-color;
+    position: sticky;
+    top: 0px;
+    //z-index hoger dan de achtergrond zodat de navbar er boven gaat.
+    z-index: 1;
+}
+
+.navbarcontainer {
+
 }
 
 //werkt wanneer scherm kleiner dan breakpoint lg (992px)
@@ -37,7 +46,17 @@ li {
 }
 
 body {
-    background-color: $theme-bg;
-}
+ //   background-color: $theme-bg;
 
+}
+.banner {
+    position: static;
+    background-image: url("/img/draak.png");
+    background-size: cover;
+    height: 150vh;
+    //negatieve margin-top zodat de achtergrond ook achter de navbar gaat zonder de structuur van de index te bewerken.
+    margin-top: -$navbardikheid;
+
+
+}
 
