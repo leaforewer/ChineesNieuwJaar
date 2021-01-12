@@ -15,6 +15,7 @@ In verkenner: C:\Users\%username%\AppData\Roaming\Code\User\settings.json > Past
 Of
 In Visual studio code: Settings>Extensions>Live Sass compile configr> Settings:Formats > Edit in settings.json > Paste
 
+```
 {
     "liveSassCompile.settings.formats": [
 
@@ -25,3 +26,4 @@ In Visual studio code: Settings>Extensions>Live Sass compile configr> Settings:F
         }
     ]
 }
+```
