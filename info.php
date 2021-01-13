@@ -1,12 +1,7 @@
 <link rel="stylesheet" href="./css/style.css">
 
-<<<<<<< HEAD
-<div class="jumbotron" id="jumbotron1">
-    <h1 class="display-4" id="Jumbotron_title" style="text-align:center;">Chinees Nieuwjaar</h1>
-=======
 <div class="jumbotron" id="jumbotron1" style="    background: linear-gradient(to right, #ff9900 0%, #ff6666 100%);">
-    <h1 class="display-4" id="Jumbotron_title" style="text-align:center;">Informatie</h1>
->>>>>>> a4344c397707200cfe508e7ac39035abfbdd9f4f
+    <h1 class="display-4" id="Jumbotron_title" style="text-align:center;">Chinees Nieuwjaar</h1>
     <hr class="my-4">
     <h3 id="jumbotron_text" style="text-align:center;">Op deze pagina kunt u allerlei informatie vinden over Chinees Nieuwjaar!</h3>
     <p class="lead">
