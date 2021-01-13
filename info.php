@@ -1,10 +1,9 @@
 <link rel="stylesheet" href="./css/style.css">
 
 <div class="jumbotron" id="jumbotron1">
-    <h1 class="display-4" id="Jumbotron_title" style="text-align:center;">Informatie</h1>
+    <h1 class="display-4" id="Jumbotron_title" style="text-align:center;">Chinees Nieuwjaar</h1>
     <hr class="my-4">
-    <h3 id="jumbotron_text" style="text-align:center;">Op deze pagina kunt u allerlei informatie vinden over winkel, reparatie, 
-    FAQ en adviezen over smartwatches.</h3>
+    <h3 id="jumbotron_text" style="text-align:center;">Op deze pagina kunt u allerlei informatie vinden over Chinees Nieuwjaar!</h3>
     <p class="lead">
     </p>
 </div>
@@ -15,62 +14,71 @@
         <div class="card-header" id="headingOne" >
             <h5 class="mb-0">
                 <button class="btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" id="card_collapse_text">
-                    E-watch 
+                    Beschrijving
                 </button>
             </h5>
         </div>
         <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
             <div class="card-body">
-            Een smartwatch is een type polshorloge dat niet alleen 
-            dient als uurwerk maar ook een reeks andere functies heeft. Een smartwatch is vergelijkbaar met 
-            elektronische handapparaten zoals een smartphone, maar wordt aan de pols bevestigd.
-            Sommige smartwatches zijn speciaal uitgerust als sportwatch of fitness band met functies en 
-            sensoren om sportieve activiteit te ondersteunen. Dergelijke functies omvatten onder meer 
-            trainingsprogramma's, het tonen van snelheid en rondetijden, een duikcomputer en een hartslagmonitor/polsmonitor.
+            •	Chinees Nieuwjaar, ook bekend als het Lentefestival of Lentefeest, is de belangrijkste van de Chinese feestdagen.
+            <br>
+            •	Chinees Nieuwjaar wordt gevierd op de eerste tot en met de vijftiende dag van de eerste maand van de Chinese kalender. 
+            De eerste dag is de dag waarop de tweede (soms de derde) nieuwe maan na het winter-solstitium plaatsvindt. 
+            <br>
+            •	Niet alleen in China en Taiwan, maar ook in veel Chinatowns in de wereld wordt het gevierd. 
+            Tegelijkertijd vieren andere Oost-Aziaten, zoals Koreanen en Vietnamezen hun nieuwjaar. 
+            Ook Mongolen en Tibetanen (losar) vieren het op dezelfde datum.
+            <br>
+            •	Het Chinees Nieuwjaar wordt traditioneel gevierd met de drakendansen en leeuwendansen.
             </div>
         </div>
     </div>
     <br>
     <!-- tweede tab -->
     <div class="card col-12">
-        <div class="card-header" id="headingTwo">
+        <div class="card-header" id="headingTwo" >
             <h5 class="mb-0">
-                <button class="btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" id="card_collapse_text">
-                    Winkel
+                <button class="btn" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" id="card_collapse_text">
+                    Hoe wordt het gevierd?
                 </button>
             </h5>
         </div>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
             <div class="card-body">
-                Wil je een smartwatch kopen? Dan ben je in het goede adress.
-                We zijn een winkel waar je je gewenste smartwatch voor een betaalbare prijs kan vinden. 
-                Jij kan ook met ons contact opnemen en advies krijgen om de juiste keuze te maken. 
-                We hebben vele jaren ervarin met het verkopen en repareren van smartwatches.
+            •	Het Chinese Nieuwjaar is in de eerste plaats een familiefeest. 
+            Alle leden van de familie komen dan bij elkaar in het huis van het oudste familielid. 
+            Voor sommige Chinezen die in de grote steden werken is dit de enige tijd van het jaar dat ze hun familie zien. 
+            Een belangrijk feest dus.
+            <br>
+            •	China is een land waar aanzien belangrijk is en dat geldt helemaal tijdens het Chinese Nieuwjaar. 
+            De meeste Chinezen kopen dan nieuwe en bij voorkeur wat duurdere kleding. Ook gaan ze nog even naar de kapper. 
+            Verder wordt je geacht je familieleden te vertellen over de grote successen die je behaald hebt.  
+            <br>
+            •	Jongere Chinezen krijgen vragen van oudere generaties over wanneer er nieuw nageslacht en dan bij voorkeur 
+            een jongetje komt. Gelukkig voor deze jongere Chinezen zijn deze vragen ‘s avonds niet meer te horen.
+            <br>
+            •	Het vuurwerk knalt in China namelijk veel harder dan in Nederland. Het is een prachtig spektakel om te zien.
             </div>
         </div>
     </div>
+    <br>
     <!-- derde tab -->
     <div class="card col-12">
         <div class="card-header" id="headingThree">
             <h5 class="mb-0">
-                <button class="btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree " id="card_collapse_text">
-                    Reparatie
+                <button class="btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" id="card_collapse_text">
+                    Regionale Cultuur
                 </button>
             </h5>
         </div>
         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
             <div class="card-body">
-                <p>
-                Wij repareren vrijwel alle merken. Zonder onderzoekskosten!
-                Bij onze winkel bent u aan het juiste adres voor uw Smartwatch reparatie. 
-                Dankzij onze ervaren reparateur(s) en uitsluitend originele onderdelen ziet uw Smartwatch er weer als vanouds uit.
-                    <br>
-                    <br>
-                Wanneer u  niet precies weet wat er defect is, onderzoeken wij het defect. 
-                Wanneer blijkt dat een Smartwatch reparatie noodzakelijk is, wordt dit van tevoren gemeld 
-                inclusief de reparatiekosten.
-                </p>
-
+            •	Het begint met de familiemaaltijd op de eerste dag van het Chinese Nieuwjaar. 
+            Nu zijn er in China veel regionale verschillen, maar ten noorden van de Yangtze staan jiaozi (饺子) steevast op het menu. 
+            In het zuiden eet men juist graag de gestoomde cake niangao (年糕).
+             <br>
+             •	In provincie Guangdong gaat men op de derde dag van het nieuwe jaar niet op familiebezoek (bainian), 
+             omdat ruzie op de loer ligt op deze dag.
             </div>
         </div>
     </div>
@@ -78,38 +86,54 @@
     <div class="card col-12">
         <div class="card-header" id="headingFour">
             <h5 class="mb-0">
-                <button class="btn collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" id="card_collapse_text">
-                    FAQ
+                <button class="btn collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour " id="card_collapse_text">
+                    Nieuwjaarsvoedsel
                 </button>
             </h5>
         </div>
         <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
             <div class="card-body">
-                <b>Wat kan ik met een smartwatch?</b>
-                <br>
-                Je kunt er onder andere berichten mee versturen en ontvangen, 
-                je gezondheid bijhouden, muziek en audiobooks beluisteren en je agenda bijhouden. 
-                Bij de meeste smartwatches zijn, net als voor een smartphone, apps te downloaden.
-                <br>
-                <br>
-                <b>Wat zijn populaire ­smartwatch-merken?</b>
-                <br>
-                De populairste en daarmee ook bekendste merken voor smartwatches 
-                zijn Apple, Samsung, Garmin en Fitbit. Fitbit is gespecialiseerd in ­fitnesstrackers.
-                <br>
-                <br>
-                <b>Wat is de levertijd van mijn bestelling?</b>
-                <br>
-                Nadat je je bestelling online gedaan hebt, is het ons streven deze zo spoedig mogelijk bij je te laten bezorgen. 
-                Als een bestelling vóór 22:00 uur is gedaan en afgerekend is, gaat het pakket de volgende dag met de post mee. 
-                Samen met de verwerkingstijd van het postorderbedrijf komt de totale levertijd op gemiddeld ongeveer 7 (werk)dagen.
-                <br>
-                <br>
-                <b>Hoe kan ik mijn bestelling ruilen of terugsturen</b>
-                <br>
-                Voor het ruilen of terugsturen van een bestelling kun je contact opnemen met onze klantenservice.
-                Geef het bestelnummer door en vertel ons team waarom je je bestelling wilt ruilen of terugsturen, 
-                dan zullen zij je zo spoedig mogelijk helpen. 
+                <p>
+                    •	Jioazi
+                    <br>
+                    •	Tangyuan
+                    <br>
+                    •	Niangao
+                    <br>
+                    •	Yusheng
+                    <br>
+                    •	Jiandui
+                    <br>
+                    •	Guazi
+                    <br>
+                    •	Matigao
+                    <br>
+                    •	Facai
+                </p>
+
+            </div>
+        </div>
+    </div>
+    <!-- vijfde tab -->
+    <div class="card col-12">
+        <div class="card-header" id="headingFive">
+            <h5 class="mb-0">
+                <button class="btn collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" id="card_collapse_text">
+                    In Nederland?
+                </button>
+            </h5>
+        </div>
+        <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+            <div class="card-body">
+            In Nederland zijn er nog genoeg festiviteiten rondom het eeuwenoude feest aan de gang. 
+            Zo zullen er in Den Haag leeuwen- en drakendansen zijn met vuurwerk en worden er in Rotterdam pop up restaurants 
+            en vlaggenparades georganiseerd. Ook het Holland Casino pakt groots uit met toernooien, live entertainment en gratis hapjes. 
+            In elke vestiging worden er gratis Mahjong- toernooien georganiseerd en hapjes geserveerd. 
+            Verder is er in een aantal vestigingen Chinese live muziek en dans, en worden er mooie cash prijzen uitgedeeld. 
+            De fanatieke gokker hoeft echter niets te vrezen, ondanks de festiviteiten en de populariteit van online roulette zijn ook 
+            deze dagen de roulette tafels in de casino’s nog gewoon open.
+            <br>
+            •	Door de Corona maatregelen zal de festiviteiten helaas niet doorgaan.
             </div>
         </div>
     </div>
