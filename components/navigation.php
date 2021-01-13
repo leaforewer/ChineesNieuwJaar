@@ -11,16 +11,16 @@
             <div class="d-flex ">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="http://www.chineesnieuwjaar.com/index.php?content=home">Home</a>
+                        <a class="nav-link" href="./index.php?content=home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://www.chineesnieuwjaar.com/index.php?content=info">Informatie</a>
+                        <a class="nav-link" href="./index.php?content=info">Informatie</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Game</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://www.chineesnieuwjaar.com/index.php?content=contact">Contact</a>
+                        <a class="nav-link" href="./index.php?content=contact">Contact</a>
                     </li>
                 </ul>
             </div>
