@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./css/style.css">
 
-<div class="jumbotron" id="jumbotron1">
+<div class="jumbotron" id="jumbotron1" style="    background: linear-gradient(to right, #ff9900 0%, #ff6666 100%);">
     <h1 class="display-4" id="Jumbotron_title" style="text-align:center;">Informatie</h1>
     <hr class="my-4">
     <h3 id="jumbotron_text" style="text-align:center;">Op deze pagina kunt u allerlei informatie vinden over winkel, reparatie, 
