@@ -1,3 +1,5 @@
 <div class="banner">
-d
+    <div class="bannertext">
+        kektop
+    </div>
 </div>

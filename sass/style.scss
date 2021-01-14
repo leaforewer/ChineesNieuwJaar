@@ -1,7 +1,7 @@
 @import '../node_modules/bootstrap/scss/bootstrap.scss'; 
 
 //variablen
-$navbar-color: rgba(255, 250, 240, 0.808);
+$navbar-color: rgba(255, 250, 240, 0.950);
 $theme-bg: #FFD84B;
 $navlinkafstand: 10px;
 $navbardikheid: 56px;
@@ -11,10 +11,10 @@ $navbardikheid: 56px;
 // navigatiebalk
 .navbar {
     background-color: $navbar-color;
-    position: sticky;
-    top: 0px;
+    position: fixed;
     //z-index hoger dan de achtergrond zodat de navbar er boven gaat.
     z-index: 1;
+    width: 100%;
 }
 
 .navbarcontainer {
@@ -38,9 +38,7 @@ $navbardikheid: 56px;
 }
 
 
-
-
-li {
+li.navitem {
     margin-left: $navlinkafstand;
     margin-right: $navlinkafstand;
 }
@@ -50,13 +48,20 @@ body {
 
 }
 .banner {
-    position: static;
+    position: relative;
+    top: 0;
     background-image: url("/img/draak.png");
+    background-color: (#a3262a5d);
+    background-blend-mode: multiply;
     background-size: cover;
-    height: 150vh;
-    //negatieve margin-top zodat de achtergrond ook achter de navbar gaat zonder de structuur van de index te bewerken.
-    margin-top: -$navbardikheid;
+    height: 80vh;
+    width: 100%;
 
 
 }
 
+.bannertext {
+    position: relative;
+    color: yellow;
+    height: 500vh;
+}

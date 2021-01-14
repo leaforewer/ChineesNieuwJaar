@@ -11303,11 +11303,10 @@ fieldset:disabled .btn {
 }
 
 .navbar {
-  background-color: rgba(255, 250, 240, 0.808);
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0px;
+  background-color: rgba(255, 250, 240, 0.95);
+  position: fixed;
   z-index: 1;
+  width: 100%;
 }
 
 @media (max-width: 991.98px) {
@@ -11323,16 +11322,25 @@ fieldset:disabled .btn {
   }
 }
 
-li {
+li.navitem {
   margin-left: 10px;
   margin-right: 10px;
 }
 
 .banner {
-  position: static;
+  position: relative;
+  top: 0;
   background-image: url("/img/draak.png");
+  background-color: #a3262a5d;
+  background-blend-mode: multiply;
   background-size: cover;
-  height: 150vh;
-  margin-top: -56px;
+  height: 80vh;
+  width: 100%;
+}
+
+.bannertext {
+  position: relative;
+  color: yellow;
+  height: 500vh;
 }
 /*# sourceMappingURL=style.css.map */
