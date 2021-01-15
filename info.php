@@ -3,23 +3,23 @@
     <div class="jumbotron" id="jumbotron1" style="    background: linear-gradient(to right, #ff9900 0%, #ff6666 100%);">
         <h1 class="display-4" id="Jumbotron_title" style="text-align:center;">Chinees Nieuwjaar</h1>
         <hr class="my-4">
-        <h3 id="jumbotron_text" style="text-align:center;">Op deze pagina kunt u allerlei informatie vinden over Chinees Nieuwjaar!</h3>
+        <h3 id="jumbotron_text" style="text-align:center; font-family: 'Quicksand', sans-serif;">Op deze pagina kunt u allerlei informatie vinden over Chinees Nieuwjaar!</h3>
         <p class="lead">
         </p>
     </div>
 
-    <div class="row" id="accordion">
+    <div class="row" id="accordion" style="font-family: 'Barlow', sans-serif;">
         <!-- eerste tab -->
         <div class="card col-12" style="background: linear-gradient(to left, #cc6600 0%, #ffff66 130%)">
             <div class="card-header" id="headingOne">
                 <h5 class="mb-0">
-                    <button class="btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" id="card_collapse_text">
+                    <button class="btn" style="font-size: 20px;" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" id="card_collapse_text">
                         Beschrijving
                     </button>
                 </h5>
             </div>
             <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                <div class="card-body">
+                <div class="card-body" style="font-size: 20px;">
                     • Chinees Nieuwjaar, ook bekend als het Lentefestival of Lentefeest, is de belangrijkste van de Chinese feestdagen.
                     <br>
                     • Chinees Nieuwjaar wordt gevierd op de eerste tot en met de vijftiende dag van de eerste maand van de Chinese kalender.
@@ -38,13 +38,13 @@
         <div class="card col-12" style="background: linear-gradient(to left, #cc6600 0%, #ffff66 130%)">
             <div class="card-header" id="headingTwo">
                 <h5 class="mb-0">
-                    <button class="btn" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" id="card_collapse_text">
+                    <button class="btn" style="font-size: 20px;" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" id="card_collapse_text">
                         Hoe wordt het gevierd?
                     </button>
                 </h5>
             </div>
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                <div class="card-body">
+                <div class="card-body" style="font-size: 20px;">
                     • Het Chinese Nieuwjaar is in de eerste plaats een familiefeest.
                     Alle leden van de familie komen dan bij elkaar in het huis van het oudste familielid.
                     Voor sommige Chinezen die in de grote steden werken is dit de enige tijd van het jaar dat ze hun familie zien.
@@ -66,13 +66,13 @@
         <div class="card col-12" style="background: linear-gradient(to left, #cc6600 0%, #ffff66 130%)">
             <div class="card-header" id="headingThree">
                 <h5 class="mb-0">
-                    <button class="btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" id="card_collapse_text">
+                    <button class="btn collapsed" style="font-size: 20px;" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" id="card_collapse_text">
                         Regionale Cultuur
                     </button>
                 </h5>
             </div>
             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                <div class="card-body">
+                <div class="card-body" style="font-size: 20px;">
                     • Het begint met de familiemaaltijd op de eerste dag van het Chinese Nieuwjaar.
                     Nu zijn er in China veel regionale verschillen, maar ten noorden van de Yangtze staan jiaozi (饺子) steevast op het menu.
                     In het zuiden eet men juist graag de gestoomde cake niangao (年糕).
@@ -86,13 +86,13 @@
         <div class="card col-12" style="background: linear-gradient(to left, #cc6600 0%, #ffff66 130%)">
             <div class="card-header" id="headingFour">
                 <h5 class="mb-0">
-                    <button class="btn collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour " id="card_collapse_text">
+                    <button class="btn collapsed" style="font-size: 20px;" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour " id="card_collapse_text">
                         Nieuwjaarsvoedsel
                     </button>
                 </h5>
             </div>
             <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                <div class="card-body">
+                <div class="card-body" style="font-size: 20px;">
                     <p>
                         • Jioazi
                         <br>
@@ -118,13 +118,13 @@
         <div class="card col-12" style="background: linear-gradient(to left, #cc6600 0%, #ffff66 130%)">
             <div class="card-header" id="headingFive">
                 <h5 class="mb-0">
-                    <button class="btn collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" id="card_collapse_text">
+                    <button class="btn collapsed" style="font-size: 20px;" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" id="card_collapse_text">
                         In Nederland?
                     </button>
                 </h5>
             </div>
             <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
-                <div class="card-body">
+                <div class="card-body" style="font-size: 20px;">
                     In Nederland zijn er nog genoeg festiviteiten rondom het eeuwenoude feest aan de gang.
                     Zo zullen er in Den Haag leeuwen- en drakendansen zijn met vuurwerk en worden er in Rotterdam pop up restaurants
                     en vlaggenparades georganiseerd. Ook het Holland Casino pakt groots uit met toernooien, live entertainment en gratis hapjes.
