@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm  bg-dark" style="background: linear-gradient(to right, #ff9900 0%, #ff6666 100%);">
+<nav class="navbar navbar-expand-sm  navbar-dark" style="background: linear-gradient(to right, #ff9900 0%, #ff6666 100%);">
     <div class="container-fluid navbarcontainer">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
