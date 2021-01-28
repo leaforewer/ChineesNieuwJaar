@@ -18,36 +18,36 @@
                 <img src="./img/jiaozi2.jpg" class="img-fluid" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Jioazi</h5>
-                    <p>Jiaozi is een Chinese knoedel die veel wordt gegeten in China en andere delen van Oost-Azië.</p>
+                    <p><b> Jiaozi is een Chinese knoedel die veel wordt gegeten in China en andere delen van Oost-Azië.</b></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./img/tangyuan.jpg" class="img-fluid" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    <h5>Tangyuan</h5>
-                    <p>Tangyuan of tang yuan is een Chinees dessert dat een bal is van kleefrijstmeel 
-                    en water dat is gekookt en geserveerd in een hete bouillon of siroop of anders gefrituurd.</p>
+                <div class="carousel-caption d-none d-md-block" style="color: whitesmoke;">
+                    <h5 style="color: black;">Tangyuan</h5>
+                    <p><b>Tangyuan of tang yuan is een Chinees dessert dat een bal is van kleefrijstmeel 
+                    en water dat is gekookt en geserveerd in een hete bouillon of siroop of anders gefrituurd.</b></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./img/niangao.jpg" class="img-fluid" alt="...">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption d-none d-md-block" style="color: whitesmoke;">
                     <h5>Niangao</h5>
-                    <p>Niangao is een Chinese lekkernij die vooral tijdens Chinees nieuwjaar wordt gemaakt.</p>
+                    <p><b>Niangao is een Chinese lekkernij die vooral tijdens Chinees nieuwjaar wordt gemaakt.</b></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./img/yusheng.jpg" class="img-fluid" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Yusheng</h5>
-                    <p>Yusheng is een rauwe vissalade in Kantonese stijl.</p>
+                    <p><b>Yusheng is een rauwe vissalade in Kantonese stijl.</b></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./img/jiandui.jpg" class="img-fluid" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Jiandui</h5>
-                    <p>Jian dui is een soort gebakken Chinees gebak gemaakt van kleefrijstmeel.</p>
+                    <p><b>Jian dui is een soort gebakken Chinees gebak gemaakt van kleefrijstmeel.</b></p>
                 </div>
             </div>
         </div>
