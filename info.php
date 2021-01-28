@@ -11,17 +11,17 @@
             <li data-bs-target="#carouselExampleDark" data-bs-slide-to="1"></li>
             <li data-bs-target="#carouselExampleDark" data-bs-slide-to="2"></li>
             <li data-bs-target="#carouselExampleDark" data-bs-slide-to="3"></li>
-
+            <li data-bs-target="#carouselExampleDark" data-bs-slide-to="4"></li>
         </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active" data-bs-interval="10000">
+        <div class="carousel-inner" data-bs-interval="2000">
+            <div class="carousel-item active">
                 <img src="./img/jiaozi2.jpg" class="img-fluid" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>First slide label</h5>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                 </div>
             </div>
-            <div class="carousel-item" data-bs-interval="2000">
+            <div class="carousel-item">
                 <img src="./img/tangyuan.jpg" class="img-fluid" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Second slide label</h5>
