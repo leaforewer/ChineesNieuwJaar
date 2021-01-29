@@ -3,6 +3,7 @@
 //variablen
 $navbar-color: rgba(255, 250, 240, 0.950);
 $theme-bg: #FFD84B;
+$theme-header: #A3262A;
 $navlinkafstand: 10px;
 $navbardikheid: 56px;
 
@@ -60,8 +61,44 @@ body {
 
 }
 
-.bannertext {
+div.bannerheader {
     position: relative;
-    color: yellow;
-    height: 500vh;
+    top: 50%;
+    color: $theme-header;
+    text-align: center;
+
+}
+
+.bannerheader {
+    font-size: 50px;
+    color: $theme-header;
+}
+
+.bannertext {
+    
+}
+
+.jumbotron {
+    background-color: $theme-bg ;
+}
+
+.gamediv{
+
+    .game{
+        width:960px;
+        height:600px;
+        border:0;
+        margin-top: 17vh;
+        margin-left: 51vh;
+    }
+}
+
+.fullscreenbutton{
+    height: 5vh;
+    width: 5vh;
+    font-size: 3vh;
+    background-color: darkgrey;
+    margin-left: 154vh;
+    margin-top: -1vh;
+    border-radius: 50px;
 }

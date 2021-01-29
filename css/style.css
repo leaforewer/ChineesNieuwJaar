@@ -11338,9 +11338,37 @@ li.navitem {
   width: 100%;
 }
 
-.bannertext {
+div.bannerheader {
   position: relative;
-  color: yellow;
-  height: 500vh;
+  top: 50%;
+  color: #A3262A;
+  text-align: center;
+}
+
+.bannerheader {
+  font-size: 50px;
+  color: #A3262A;
+}
+
+.jumbotron {
+  background-color: #FFD84B;
+}
+
+.gamediv .game {
+  width: 960px;
+  height: 600px;
+  border: 0;
+  margin-top: 17vh;
+  margin-left: 51vh;
+}
+
+.fullscreenbutton {
+  height: 5vh;
+  width: 5vh;
+  font-size: 3vh;
+  background-color: darkgrey;
+  margin-left: 154vh;
+  margin-top: -1vh;
+  border-radius: 50px;
 }
 /*# sourceMappingURL=style.css.map */
